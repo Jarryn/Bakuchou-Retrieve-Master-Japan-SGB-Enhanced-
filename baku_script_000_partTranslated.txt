@@ -4,140 +4,140 @@
 //Block Range: $29BF0 - $2AA6F
 
 
-‚¨‚­‚½‚Ü‚±
+ãŠããŸã¾ã“
 Lake Okutama
 
 -----
 
-‚©‚í‚®‚¿‚±
+ã‹ã‚ãã¡ã“
 Lake Kawaguchi
 
 -----
 
-‚â‚Ü‚È‚©‚±
+ã‚„ã¾ãªã‹ã“
 Lake Yamanaka
 
 -----
 
-‚ ‚µ‚Ì‚±
+ã‚ã—ã®ã“
 Lake Ashinoko
 
 -----
 
-‚Ù‚¤‚ç‚¢‚±
+ã»ã†ã‚‰ã„ã“
 Lake Hourai
 
 -----
 
-‚¨‚¨‚¦‚ª‚í
+ãŠãŠãˆãŒã‚
 Oegawa
 
 -----
 
-‚Ñ‚í‚±
+ã³ã‚ã“
 Lake Biwa
 
 -----
 
-<HERO>
+<HERO> (Prints the Hero's name)
 
 -----
 
-ƒiƒ~
+ãƒŠãƒŸ
 Nami
 
 -----
 
-ƒcƒˆƒV
+ãƒ„ãƒ¨ã‚·
 Tsuyoshi
 
 -----
 
-ƒ^ƒNƒg
+ã‚¿ã‚¯ãƒˆ
 Takuto
 
 -----
 
-ƒPƒ“ƒW
+ã‚±ãƒ³ã‚¸
 Kenji
 
 -----
 
-ƒŠƒ‡ƒE
+ãƒªãƒ§ã‚¦
 Ryo
 
 -----
 
-ƒ}ƒRƒg
+ãƒžã‚³ãƒˆ
 Makoto
 
 -----
 
-ƒeƒ‹ƒqƒR
+ãƒ†ãƒ«ãƒ’ã‚³
 Teruhiko
 
 -----
 
-ƒƒ^ƒ‹
+ãƒ¯ã‚¿ãƒ«
 Wataru
 
 -----
 
-ƒAƒLƒg
+ã‚¢ã‚­ãƒˆ
 Akito
 
 -----
 
-ƒVƒ“ƒCƒ`
+ã‚·ãƒ³ã‚¤ãƒ
 Shinichi
 
 -----
 
-‚¨‚Æ‚±‚Ì‚±
+ãŠã¨ã“ã®ã“
 Boy
 -----
 
-‚¨‚ñ‚È‚Ì‚±
+ãŠã‚“ãªã®ã“
 Girl
 
 -----
 
-‚¨‚É‚¢‚³‚ñ
+ãŠã«ã„ã•ã‚“
 Brother
 
 -----
 
-‚¨‚Ë‚¦‚³‚ñ
+ãŠã­ãˆã•ã‚“
 Sister
 
 -----
 
-‚¨‚¶‚¢‚³‚ñ
+ãŠã˜ã„ã•ã‚“
 Old Man/Gramps
 
 -----
 
-‚Â‚è‚Ñ‚Æ
+ã¤ã‚Šã³ã¨
 Fishing Boat
 
 -----
 
-‘å‰ï‚¢‚¢‚ñ
+å¤§ä¼šã„ã„ã‚“
 Tournament Inn?
 
 -----
 
-‚­‚ë‚Ó‚­
-Kurofuku
+ãã‚ãµã
+Kurofuku / Men in Black / Black Suits (é»’æœ)
 
 -----
 
-ƒ{[ƒg‚â
+ãƒœãƒ¼ãƒˆã‚„
 Boat
 
 -----
 
-ƒ~ƒcƒqƒR
+ãƒŸãƒ„ãƒ’ã‚³
 Mitsuhiko
 
 -----
@@ -146,17 +146,17 @@ Mitsuhiko
 
 -----
 
-‚¯‚¢‚¯‚ñ‚¿
-‚¨‚©‚Ë
+ã‘ã„ã‘ã‚“ã¡
+ãŠã‹ã­
 Experience
 Money
 
 -----
 
-‚Â‚è  
-ƒ^ƒbƒNƒ‹ 
-ƒ‹ƒA[ 
-‚è‚å‚¤‚è 
+ã¤ã‚Š  
+ã‚¿ãƒƒã‚¯ãƒ« 
+ãƒ«ã‚¢ãƒ¼ 
+ã‚Šã‚‡ã†ã‚Š 
 Fishing
 Tackle
 Lure
@@ -164,10 +164,10 @@ Cuisine/Cook
 
 -----
 
-‚½‚×‚é 
-ƒAƒhƒoƒCƒX
-ƒAƒCƒeƒ€
-ƒXƒe[ƒ^ƒX
+ãŸã¹ã‚‹ 
+ã‚¢ãƒ‰ãƒã‚¤ã‚¹
+ã‚¢ã‚¤ãƒ†ãƒ 
+ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹
 Eat
 Advice
 Items
@@ -175,7 +175,7 @@ Status
 
 -----
 
-‚½‚×‚é
+ãŸã¹ã‚‹
 Eat
 
 -----
@@ -196,13 +196,13 @@ Eat
 
 -----
 
-ƒtƒ@ƒCƒ‹‚ð ‚¦‚ç‚ñ‚Å‚­‚¾‚³‚¢B
+ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ ãˆã‚‰ã‚“ã§ãã ã•ã„ã€‚
 Please choose a file.
 
 -----
 
- ƒLƒƒƒbƒ`‚·‚é<LINE>
- ƒŠƒŠ[ƒX‚·‚é
+ ã‚­ãƒ£ãƒƒãƒã™ã‚‹<LINE>
+ ãƒªãƒªãƒ¼ã‚¹ã™ã‚‹
  Catch<LINE>
  Release
 
@@ -213,743 +213,743 @@ PUSH START
 
 -----
 
-ƒXƒg[ƒŠ[
+ã‚¹ãƒˆãƒ¼ãƒªãƒ¼
 Story
 
 -----
 
-ƒXƒg[ƒŠ[  
-ƒgƒŒ[ƒfƒBƒ“
-ƒOƒtƒ@ƒCƒ‹‚ð‚¯‚·
+ã‚¹ãƒˆãƒ¼ãƒªãƒ¼  
+ãƒˆãƒ¬ãƒ¼ãƒ‡ã‚£ãƒ³
+ã‚°ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‘ã™
 Story
 Trading
 Delete File
 
 -----
 
-‚Í‚¶‚ß‚©‚ç
+ã¯ã˜ã‚ã‹ã‚‰
 New Game
 
 -----
 
-‚Â‚Ã‚«‚©‚ç  
-‚Í‚¶‚ß‚©‚ç
+ã¤ã¥ãã‹ã‚‰  
+ã¯ã˜ã‚ã‹ã‚‰
 Continue
 New Game
 
 -----
 
- ƒLƒƒƒbƒ`‚·‚é<LINE>
- ‚µ‚å‚­‚´‚¢‚É‚·‚é<LINE>
- ƒŠƒŠ[ƒX‚·‚é
+ ã‚­ãƒ£ãƒƒãƒã™ã‚‹<LINE>
+ ã—ã‚‡ãã–ã„ã«ã™ã‚‹<LINE>
+ ãƒªãƒªãƒ¼ã‚¹ã™ã‚‹
  Catch<LINE>
  Eat/Cook<LINE>
  Release
 -----
 
-‘å‰ï‚¿‚ã‚¤‚Í<LINE>
-ƒZ[ƒu‚Å‚«‚Ü‚¹‚ñB
+å¤§ä¼šã¡ã‚…ã†ã¯<LINE>
+ã‚»ãƒ¼ãƒ–ã§ãã¾ã›ã‚“ã€‚
 Saving is not permitted during the Tournament.
 
 -----
 
-‚½‚¢‚¯‚Â‚¿‚ã‚¤‚Í<LINE>
-ƒZ[ƒu‚Å‚«‚Ü‚¹‚ñB
+ãŸã„ã‘ã¤ã¡ã‚…ã†ã¯<LINE>
+ã‚»ãƒ¼ãƒ–ã§ãã¾ã›ã‚“ã€‚
 You cannot save the game.
 
 -----
 
-ƒtƒ@ƒCƒ‹‚ð ƒ[ƒh‚µ‚Ü‚µ‚½B
+ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ ãƒ­ãƒ¼ãƒ‰ã—ã¾ã—ãŸã€‚
 The file was loaded.
 
 -----
 
-ƒtƒ@ƒCƒ‹‚É ƒZ[ƒu‚µ‚Ü‚µ‚½B
+ãƒ•ã‚¡ã‚¤ãƒ«ã« ã‚»ãƒ¼ãƒ–ã—ã¾ã—ãŸã€‚
 You saved the file.
 
 -----
 
-ƒtƒ@ƒCƒ‹‚ð ‚¯‚µ‚Ü‚µ‚½B
+ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ ã‘ã—ã¾ã—ãŸã€‚
 File has been saved.
 
 -----
 
 <END>
 
-‚½‚¢‚è‚å‚­‚ª<LINE>
-<DYNAMIC_NUMBER><$00>‚©‚¢‚Ó‚­‚µ‚Ü‚µ‚½B<END>
+ãŸã„ã‚Šã‚‡ããŒ<LINE>
+<DYNAMIC_NUMBER><$00>ã‹ã„ãµãã—ã¾ã—ãŸã€‚<END>
 
-‚½‚¢‚è‚å‚­‚ª<LINE>
-‚³‚¢‚¾‚¢‚Ü‚Å‚©‚¢‚Ó‚­‚µ‚Ü‚µ‚½B<END>
+ãŸã„ã‚Šã‚‡ããŒ<LINE>
+ã•ã„ã ã„ã¾ã§ã‹ã„ãµãã—ã¾ã—ãŸã€‚<END>
 
-‚±‚ê‚¢‚¶‚å‚¤A‚©‚¢‚Ó‚­‚·‚é‚±‚Æ‚Í<LINE>
-‚Å‚«‚Ü‚¹‚ñB<END>
+ã“ã‚Œã„ã˜ã‚‡ã†ã€ã‹ã„ãµãã™ã‚‹ã“ã¨ã¯<LINE>
+ã§ãã¾ã›ã‚“ã€‚<END>
 
-ƒiƒ~‚ª‚¢‚È‚¢‚Ì‚ÅA‚è‚å‚¤‚è‚ð<LINE>
-‚Â‚­‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB<END>
+ãƒŠãƒŸãŒã„ãªã„ã®ã§ã€ã‚Šã‚‡ã†ã‚Šã‚’<LINE>
+ã¤ãã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚<END>
 
-‚±‚±‚Å‚Í‚è‚å‚¤‚è‚ð<LINE>
-‚Â‚­‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB<END>
+ã“ã“ã§ã¯ã‚Šã‚‡ã†ã‚Šã‚’<LINE>
+ã¤ãã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚<END>
 
-‚±‚±‚Å‚Í‚Ë‚é‚±‚Æ‚ª<LINE>
-‚Å‚«‚Ü‚¹‚ñB<END>
+ã“ã“ã§ã¯ã­ã‚‹ã“ã¨ãŒ<LINE>
+ã§ãã¾ã›ã‚“ã€‚<END>
 
-‚¨‚â‚·‚Ý‚È‚³[‚¢B<END>
+ãŠã‚„ã™ã¿ãªã•ãƒ¼ã„ã€‚<END>
 
-‚³‚¢‚¾‚¢‚½‚¢‚è‚å‚­‚Ì‚Í‚ñ‚Ô‚ñ‚¾‚¯<LINE>
-‚µ‚©A‚©‚¢‚Ó‚­‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B<NP>
+ã•ã„ã ã„ãŸã„ã‚Šã‚‡ãã®ã¯ã‚“ã¶ã‚“ã ã‘<LINE>
+ã—ã‹ã€ã‹ã„ãµãã—ã¾ã›ã‚“ã§ã—ãŸã€‚<NP>
 
-‚«‚è‚å‚­‚Í<LINE>
-‚©‚ñ‚º‚ñ‚É‚©‚¢‚Ó‚­‚µ‚Ü‚µ‚½B<END>
+ãã‚Šã‚‡ãã¯<LINE>
+ã‹ã‚“ãœã‚“ã«ã‹ã„ãµãã—ã¾ã—ãŸã€‚<END>
 
-‚½‚¢‚è‚å‚­‚ª<DYNAMIC_NUMBER><$00><LINE>
-‚«‚è‚å‚­‚ª<DYNAMIC_NUMBER><$10><NP>
+ãŸã„ã‚Šã‚‡ããŒ<DYNAMIC_NUMBER><$00><LINE>
+ãã‚Šã‚‡ããŒ<DYNAMIC_NUMBER><$10><NP>
 
-‚»‚ê‚¼‚ê‚©‚¢‚Ó‚­‚µ‚Ü‚µ‚½B<END>
+ãã‚Œãžã‚Œã‹ã„ãµãã—ã¾ã—ãŸã€‚<END>
 
-‚¨‚È‚©‚ª‚Ö‚Á‚Ä‚½‚¨‚ê‚»‚¤‚¾B<END>
+ãŠãªã‹ãŒã¸ã£ã¦ãŸãŠã‚Œãã†ã ã€‚<END>
 
-‚à‚¤EEE‚¾‚ß‚¾‚ŸEEE<LINE>
-‚¢‚Á‚Û‚à ‚ ‚é‚¯‚È‚¢‚æEEEB<NP>
+ã‚‚ã†ãƒ»ãƒ»ãƒ»ã ã‚ã ããƒ»ãƒ»ãƒ»<LINE>
+ã„ã£ã½ã‚‚ ã‚ã‚‹ã‘ãªã„ã‚ˆãƒ»ãƒ»ãƒ»ã€‚<NP>
 
-‚½‚¢‚è‚å‚­‚ª‚Ö‚Á‚½‚çA‚È‚É‚©<LINE>
-‚½‚×‚ê‚Î ‚æ‚©‚Á‚½EEEB<END>
+ãŸã„ã‚Šã‚‡ããŒã¸ã£ãŸã‚‰ã€ãªã«ã‹<LINE>
+ãŸã¹ã‚Œã° ã‚ˆã‹ã£ãŸãƒ»ãƒ»ãƒ»ã€‚<END>
 
-‚±‚±‚Å‚ÍA‚Â‚è‚ð‚·‚é‚±‚Æ‚ª<LINE>
-‚Å‚«‚Ü‚¹‚ñB<END>
+ã“ã“ã§ã¯ã€ã¤ã‚Šã‚’ã™ã‚‹ã“ã¨ãŒ<LINE>
+ã§ãã¾ã›ã‚“ã€‚<END>
 
-‚à‚¤‚»‚ë‚»‚ë<LINE>
-‚¶‚©‚ñ‚¾‚ÈEEEB<END>
+ã‚‚ã†ãã‚ãã‚<LINE>
+ã˜ã‹ã‚“ã ãªãƒ»ãƒ»ãƒ»ã€‚<END>
 
-‚ `‚æ‚­‚Ë‚½EEEB<$FA><END>
+ã‚ï½žã‚ˆãã­ãŸãƒ»ãƒ»ãƒ»ã€‚<$FA><END>
 
-ƒ‹ƒA[‚ð1‚Â‚à ‚à‚Á‚Ä‚¢‚Ü‚¹‚ñB<END>
+ãƒ«ã‚¢ãƒ¼ã‚’1ã¤ã‚‚ ã‚‚ã£ã¦ã„ã¾ã›ã‚“ã€‚<END>
 
-‚«‚è‚å‚­‚ÍA‚±‚ê‚¢‚¶‚å‚¤<LINE>
-‚©‚¢‚Ó‚­‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB<END>
+ãã‚Šã‚‡ãã¯ã€ã“ã‚Œã„ã˜ã‚‡ã†<LINE>
+ã‹ã„ãµãã™ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚<END>
 
-‚½‚¢‚è‚å‚­‚ÍA‚±‚ê‚¢‚¶‚å‚¤<LINE>
-‚©‚¢‚Ó‚­‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB<END>
+ãŸã„ã‚Šã‚‡ãã¯ã€ã“ã‚Œã„ã˜ã‚‡ã†<LINE>
+ã‹ã„ãµãã™ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚<END>
 
-ƒ‰[ƒWƒ}ƒEƒXƒoƒX
+ãƒ©ãƒ¼ã‚¸ãƒžã‚¦ã‚¹ãƒã‚¹
 
 -----
 
-ƒuƒ‹[ƒMƒ‹
+ãƒ–ãƒ«ãƒ¼ã‚®ãƒ«
 
 -----
 
-ƒ„ƒ}ƒ
+ãƒ¤ãƒžãƒ¡
 
 -----
 
-ƒjƒWƒ}ƒX
+ãƒ‹ã‚¸ãƒžã‚¹
 
 -----
 
-ƒwƒ‰ƒuƒi
+ãƒ˜ãƒ©ãƒ–ãƒŠ
 
 -----
 
-ƒRƒC
+ã‚³ã‚¤
 
 -----
 
-ƒAƒ†
+ã‚¢ãƒ¦
 
 -----
 
-ƒEƒOƒC
+ã‚¦ã‚°ã‚¤
 
 -----
 
-ƒIƒCƒJƒ
+ã‚ªã‚¤ã‚«ãƒ¯
 
 -----
 
-ƒhƒWƒ‡ƒE
+ãƒ‰ã‚¸ãƒ§ã‚¦
 
 -----
 
-ƒiƒ}ƒY
+ãƒŠãƒžã‚º
 
 -----
 
-ƒMƒM
+ã‚®ã‚®
 
 -----
 
-ƒEƒiƒM
+ã‚¦ãƒŠã‚®
 
 -----
 
-ƒqƒƒ}ƒX
+ãƒ’ãƒ¡ãƒžã‚¹
 
 -----
 
-ƒ}ƒuƒi
+ãƒžãƒ–ãƒŠ
 
 -----
 
-ƒuƒ‰ƒEƒ“ƒgƒ‰ƒEƒg
+ãƒ–ãƒ©ã‚¦ãƒ³ãƒˆãƒ©ã‚¦ãƒˆ
 
 -----
 
-ƒXƒ‚[ƒ‹ƒ}ƒEƒXƒoƒX
+ã‚¹ãƒ¢ãƒ¼ãƒ«ãƒžã‚¦ã‚¹ãƒã‚¹
 
 -----
 
-ƒXƒ|ƒbƒeƒbƒhƒoƒX
+ã‚¹ãƒãƒƒãƒ†ãƒƒãƒ‰ãƒã‚¹
 
 -----
 
-ƒ‰ƒCƒMƒ‡
+ãƒ©ã‚¤ã‚®ãƒ§
 
 -----
 
-ƒCƒƒgƒRƒiƒ}ƒY
+ã‚¤ãƒ¯ãƒˆã‚³ãƒŠãƒžã‚º
 
 -----
 
-ƒrƒƒRƒIƒIƒiƒ}ƒY
+ãƒ“ãƒ¯ã‚³ã‚ªã‚ªãƒŠãƒžã‚º
 
 -----
 
-ƒJƒ€ƒ‹ƒ`[
+ã‚«ãƒ ãƒ«ãƒãƒ¼
 
 -----
 
-ƒrƒƒ}ƒX
+ãƒ“ãƒ¯ãƒžã‚¹
 
 -----
 
-ƒAƒ}ƒS
+ã‚¢ãƒžã‚´
 
 -----
 
-ƒjƒSƒC
+ãƒ‹ã‚´ã‚¤
 
 -----
 
-ƒ\ƒEƒMƒ‡
+ã‚½ã‚¦ã‚®ãƒ§
 
 -----
 
-ƒJƒƒ€ƒc
+ã‚«ãƒ¯ãƒ ãƒ„
 
 -----
 
-ƒnƒX
+ãƒã‚¹
 
 -----
 
-ƒƒJƒ^
+ãƒ¯ã‚«ã‚¿
 
 -----
 
-ƒXƒv[ƒ“    ƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚¹ãƒ—ãƒ¼ãƒ³    ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒXƒsƒi[ƒxƒCƒg ƒRƒƒ‰ƒh   ƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚¹ãƒ”ãƒŠãƒ¼ãƒ™ã‚¤ãƒˆ ã‚³ãƒ­ãƒ©ãƒ‰   ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒXƒsƒi[ƒxƒCƒg ƒEƒBƒ[   ƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚¹ãƒ”ãƒŠãƒ¼ãƒ™ã‚¤ãƒˆ ã‚¦ã‚£ãƒ­ãƒ¼   ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒoƒXƒxƒCƒg   ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒã‚¹ãƒ™ã‚¤ãƒˆ   ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒVƒƒƒbƒh    ƒVƒƒƒ[   ƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚·ãƒ£ãƒƒãƒ‰    ã‚·ãƒ£ãƒ­ãƒ¼   ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒVƒƒƒbƒh    ƒfƒB[ƒv   ƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚·ãƒ£ãƒƒãƒ‰    ãƒ‡ã‚£ãƒ¼ãƒ—   ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒNƒ‰ƒ“ƒNƒxƒCƒg ƒVƒƒƒ[   ƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚¯ãƒ©ãƒ³ã‚¯ãƒ™ã‚¤ãƒˆ ã‚·ãƒ£ãƒ­ãƒ¼   ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒNƒ‰ƒ“ƒNƒxƒCƒg ƒfƒB[ƒv   ƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚¯ãƒ©ãƒ³ã‚¯ãƒ™ã‚¤ãƒˆ ãƒ‡ã‚£ãƒ¼ãƒ—   ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒ~ƒm[     ƒtƒ[ƒeƒBƒ“ƒOƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒŸãƒŽãƒ¼     ãƒ•ãƒ­ãƒ¼ãƒ†ã‚£ãƒ³ã‚°ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒ~ƒm[     ƒTƒXƒyƒ“ƒh  ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒŸãƒŽãƒ¼     ã‚µã‚¹ãƒšãƒ³ãƒ‰  ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒ~ƒm[     ƒVƒ“ƒLƒ“ƒO  ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒŸãƒŽãƒ¼     ã‚·ãƒ³ã‚­ãƒ³ã‚°  ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒmƒCƒW[    ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒŽã‚¤ã‚¸ãƒ¼    ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒyƒ“ƒVƒ‹ƒxƒCƒg ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒšãƒ³ã‚·ãƒ«ãƒ™ã‚¤ãƒˆ ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒ|ƒbƒp[    ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒãƒƒãƒ‘ãƒ¼    ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒXƒEƒBƒbƒVƒƒ[ ƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚¹ã‚¦ã‚£ãƒƒã‚·ãƒ£ãƒ¼ ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒ_[ƒ_[    ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒ€ãƒ¼ãƒ€ãƒ¼    ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒ‰ƒo[ƒWƒO   ƒ|[ƒN    ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒ©ãƒãƒ¼ã‚¸ã‚°   ãƒãƒ¼ã‚¯    ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒ‰ƒo[ƒWƒO   ƒOƒ‰ƒu    ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒ©ãƒãƒ¼ã‚¸ã‚°   ã‚°ãƒ©ãƒ–    ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒƒ^ƒ‹ƒWƒO   ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒ¡ã‚¿ãƒ«ã‚¸ã‚°   ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-‚³‚Â‚¶‚ñƒRƒAƒ‰ (ƒ}ƒEƒX)  ƒiƒ`ƒ…ƒ‰ƒ‹
+ã•ã¤ã˜ã‚“ã‚³ã‚¢ãƒ© (ãƒžã‚¦ã‚¹)  ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒoƒCƒuƒŒ[ƒVƒ‡ƒ“ƒ‰ƒgƒ‹    ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒã‚¤ãƒ–ãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³ãƒ©ãƒˆãƒ«    ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒoƒCƒuƒŒ[ƒVƒ‡ƒ“ƒTƒCƒŒƒ“ƒg  ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒã‚¤ãƒ–ãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³ã‚µã‚¤ãƒ¬ãƒ³ãƒˆ  ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒ‚ƒAƒC     (ƒ|ƒbƒp[) ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒ¢ã‚¢ã‚¤     (ãƒãƒƒãƒ‘ãƒ¼) ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒNƒ‚¿‚á‚ñ   ƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚¯ãƒ­ã¡ã‚ƒã‚“   ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒXƒv[ƒ“    ƒAƒs[ƒ‹
+ã‚¹ãƒ—ãƒ¼ãƒ³    ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒXƒsƒi[ƒxƒCƒg ƒRƒƒ‰ƒh   ƒAƒs[ƒ‹
+ã‚¹ãƒ”ãƒŠãƒ¼ãƒ™ã‚¤ãƒˆ ã‚³ãƒ­ãƒ©ãƒ‰   ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒXƒsƒi[ƒxƒCƒg ƒEƒBƒ[   ƒAƒs[ƒ‹
+ã‚¹ãƒ”ãƒŠãƒ¼ãƒ™ã‚¤ãƒˆ ã‚¦ã‚£ãƒ­ãƒ¼   ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒoƒXƒxƒCƒg   ƒAƒs[ƒ‹
+ãƒã‚¹ãƒ™ã‚¤ãƒˆ   ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒVƒƒƒbƒh    ƒVƒƒƒ[   ƒAƒs[ƒ‹
+ã‚·ãƒ£ãƒƒãƒ‰    ã‚·ãƒ£ãƒ­ãƒ¼   ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒVƒƒƒbƒh    ƒfƒB[ƒv   ƒAƒs[ƒ‹
+ã‚·ãƒ£ãƒƒãƒ‰    ãƒ‡ã‚£ãƒ¼ãƒ—   ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒNƒ‰ƒ“ƒNƒxƒCƒg ƒVƒƒƒ[   ƒAƒs[ƒ‹
+ã‚¯ãƒ©ãƒ³ã‚¯ãƒ™ã‚¤ãƒˆ ã‚·ãƒ£ãƒ­ãƒ¼   ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒNƒ‰ƒ“ƒNƒxƒCƒg ƒfƒB[ƒv   ƒAƒs[ƒ‹
+ã‚¯ãƒ©ãƒ³ã‚¯ãƒ™ã‚¤ãƒˆ ãƒ‡ã‚£ãƒ¼ãƒ—   ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒ~ƒm[     ƒtƒ[ƒeƒBƒ“ƒOƒAƒs[ƒ‹
+ãƒŸãƒŽãƒ¼     ãƒ•ãƒ­ãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒ~ƒm[     ƒTƒXƒyƒ“ƒh  ƒAƒs[ƒ‹
+ãƒŸãƒŽãƒ¼     ã‚µã‚¹ãƒšãƒ³ãƒ‰  ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒ~ƒm[     ƒVƒ“ƒLƒ“ƒO  ƒAƒs[ƒ‹
+ãƒŸãƒŽãƒ¼     ã‚·ãƒ³ã‚­ãƒ³ã‚°  ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒmƒCƒW[    ƒAƒs[ƒ‹
+ãƒŽã‚¤ã‚¸ãƒ¼    ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒyƒ“ƒVƒ‹ƒxƒCƒg ƒAƒs[ƒ‹
+ãƒšãƒ³ã‚·ãƒ«ãƒ™ã‚¤ãƒˆ ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒ|ƒbƒp[    ƒAƒs[ƒ‹
+ãƒãƒƒãƒ‘ãƒ¼    ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒXƒEƒBƒbƒVƒƒ[ ƒAƒs[ƒ‹
+ã‚¹ã‚¦ã‚£ãƒƒã‚·ãƒ£ãƒ¼ ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒ_[ƒ_[    ƒAƒs[ƒ‹
+ãƒ€ãƒ¼ãƒ€ãƒ¼    ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒ‰ƒo[ƒWƒO   ƒ|[ƒN    ƒAƒs[ƒ‹
+ãƒ©ãƒãƒ¼ã‚¸ã‚°   ãƒãƒ¼ã‚¯    ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒ‰ƒo[ƒWƒO   ƒOƒ‰ƒu    ƒAƒs[ƒ‹
+ãƒ©ãƒãƒ¼ã‚¸ã‚°   ã‚°ãƒ©ãƒ–    ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒƒ^ƒ‹ƒWƒO   ƒAƒs[ƒ‹
+ãƒ¡ã‚¿ãƒ«ã‚¸ã‚°   ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒpƒƒvƒƒLƒƒƒbƒv(ƒNƒ‰ƒ“ƒN) ƒAƒs[ƒ‹
+ãƒ‘ãƒ¯ãƒ—ãƒ­ã‚­ãƒ£ãƒƒãƒ—(ã‚¯ãƒ©ãƒ³ã‚¯) ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒoƒCƒuƒŒ[ƒVƒ‡ƒ“ƒ‰ƒgƒ‹    ƒAƒs[ƒ‹
+ãƒã‚¤ãƒ–ãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³ãƒ©ãƒˆãƒ«    ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒoƒCƒuƒŒ[ƒVƒ‡ƒ“ƒTƒCƒŒƒ“ƒg  ƒAƒs[ƒ‹
+ãƒã‚¤ãƒ–ãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³ã‚µã‚¤ãƒ¬ãƒ³ãƒˆ  ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒcƒCƒ“ƒr[   (ƒmƒCƒW[) ƒAƒs[ƒ‹
+ãƒ„ã‚¤ãƒ³ãƒ“ãƒ¼   (ãƒŽã‚¤ã‚¸ãƒ¼) ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-“”‚Ìƒ‹ƒA[   ƒAƒs[ƒ‹
+ç¯ã®ãƒ«ã‚¢ãƒ¼   ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒXƒgƒŒ[ƒgƒeƒCƒ‹ƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚¹ãƒˆãƒ¬ãƒ¼ãƒˆãƒ†ã‚¤ãƒ«ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒJ[ƒŠ[ƒeƒCƒ‹ ƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚«ãƒ¼ãƒªãƒ¼ãƒ†ã‚¤ãƒ« ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒVƒƒƒbƒhƒeƒCƒ‹ ƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚·ãƒ£ãƒƒãƒ‰ãƒ†ã‚¤ãƒ« ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒpƒhƒ‹ƒeƒCƒ‹  ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒ‘ãƒ‰ãƒ«ãƒ†ã‚¤ãƒ«  ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒOƒ‰ƒu     ƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚°ãƒ©ãƒ–     ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒNƒ[     ƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚¯ãƒ­ãƒ¼     ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒXƒeƒBƒbƒNƒxƒCƒgƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚¹ãƒ†ã‚£ãƒƒã‚¯ãƒ™ã‚¤ãƒˆãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒ`ƒ…[ƒu    ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒãƒ¥ãƒ¼ãƒ–    ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒXƒgƒŒ[ƒgƒeƒCƒ‹ƒAƒs[ƒ‹
+ã‚¹ãƒˆãƒ¬ãƒ¼ãƒˆãƒ†ã‚¤ãƒ«ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒJ[ƒŠ[ƒeƒCƒ‹ ƒAƒs[ƒ‹
+ã‚«ãƒ¼ãƒªãƒ¼ãƒ†ã‚¤ãƒ« ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒVƒƒƒbƒhƒeƒCƒ‹ ƒAƒs[ƒ‹
+ã‚·ãƒ£ãƒƒãƒ‰ãƒ†ã‚¤ãƒ« ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒpƒhƒ‹ƒeƒCƒ‹  ƒAƒs[ƒ‹
+ãƒ‘ãƒ‰ãƒ«ãƒ†ã‚¤ãƒ«  ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒOƒ‰ƒu     ƒAƒs[ƒ‹
+ã‚°ãƒ©ãƒ–     ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒNƒ[     ƒAƒs[ƒ‹
+ã‚¯ãƒ­ãƒ¼     ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒXƒeƒBƒbƒNƒxƒCƒgƒAƒs[ƒ‹
+ã‚¹ãƒ†ã‚£ãƒƒã‚¯ãƒ™ã‚¤ãƒˆã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒ`ƒ…[ƒu    ƒAƒs[ƒ‹
+ãƒãƒ¥ãƒ¼ãƒ–    ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒXƒgƒŒ[ƒgƒeƒCƒ‹ƒnƒCƒAƒs[ƒ‹
+ã‚¹ãƒˆãƒ¬ãƒ¼ãƒˆãƒ†ã‚¤ãƒ«ãƒã‚¤ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒJ[ƒŠ[ƒeƒCƒ‹ ƒnƒCƒAƒs[ƒ‹
+ã‚«ãƒ¼ãƒªãƒ¼ãƒ†ã‚¤ãƒ« ãƒã‚¤ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒVƒƒƒbƒhƒeƒCƒ‹ ƒnƒCƒAƒs[ƒ‹
+ã‚·ãƒ£ãƒƒãƒ‰ãƒ†ã‚¤ãƒ« ãƒã‚¤ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒpƒhƒ‹ƒeƒCƒ‹  ƒnƒCƒAƒs[ƒ‹
+ãƒ‘ãƒ‰ãƒ«ãƒ†ã‚¤ãƒ«  ãƒã‚¤ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒOƒ‰ƒu     ƒnƒCƒAƒs[ƒ‹
+ã‚°ãƒ©ãƒ–     ãƒã‚¤ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒNƒ[     ƒnƒCƒAƒs[ƒ‹
+ã‚¯ãƒ­ãƒ¼     ãƒã‚¤ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒXƒeƒBƒbƒNƒxƒCƒgƒnƒCƒAƒs[ƒ‹
+ã‚¹ãƒ†ã‚£ãƒƒã‚¯ãƒ™ã‚¤ãƒˆãƒã‚¤ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒ`ƒ…[ƒu    ƒnƒCƒAƒs[ƒ‹
+ãƒãƒ¥ãƒ¼ãƒ–    ãƒã‚¤ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒtƒƒbƒO    ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒ•ãƒ­ãƒƒã‚°    ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒtƒƒbƒO    ƒAƒs[ƒ‹
+ãƒ•ãƒ­ãƒƒã‚°    ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒrƒbƒNƒoƒCƒp[ (ƒXƒgƒŒ[ƒg)ƒiƒ`ƒ…ƒ‰ƒ‹
+ãƒ“ãƒƒã‚¯ãƒã‚¤ãƒ‘ãƒ¼ (ã‚¹ãƒˆãƒ¬ãƒ¼ãƒˆ)ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒTƒ‰ƒ}ƒ“ƒ_   (ƒJ[ƒŠ[) ƒnƒCƒAƒs[ƒ‹
+ã‚µãƒ©ãƒžãƒ³ãƒ€   (ã‚«ãƒ¼ãƒªãƒ¼) ãƒã‚¤ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-‚±‚¢‚Â     (ƒŠƒU[ƒh) ƒAƒs[ƒ‹
+ã“ã„ã¤     (ãƒªã‚¶ãƒ¼ãƒ‰) ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒS[ƒŒƒ€    (ƒNƒ[)  ƒiƒ`ƒ…ƒ‰ƒ‹
+ã‚´ãƒ¼ãƒ¬ãƒ     (ã‚¯ãƒ­ãƒ¼)  ãƒŠãƒãƒ¥ãƒ©ãƒ«
 
 -----
 
-ƒSƒGƒ‚ƒ“    (ƒtƒƒbƒO) ƒnƒCƒAƒs[ƒ‹
+ã‚´ã‚¨ãƒ¢ãƒ³    (ãƒ•ãƒ­ãƒƒã‚°) ãƒã‚¤ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-ƒSƒGƒ‚ƒ“ƒLƒZƒ‹ (ƒVƒƒƒbƒh) ƒAƒs[ƒ‹
+ã‚´ã‚¨ãƒ¢ãƒ³ã‚­ã‚»ãƒ« (ã‚·ãƒ£ãƒƒãƒ‰) ã‚¢ãƒ”ãƒ¼ãƒ«
 
 -----
 
-‚¤`‚ñ<LINE>
-‚Ü‚ ‚Ü‚ ‚©‚ÈH<$FA><END>
+ã†ï½žã‚“<LINE>
+ã¾ã‚ã¾ã‚ã‹ãªï¼Ÿ<$FA><END>
 
-‚â‚Á‚½`I<LINE>
-‚Â‚ê‚½`I<$FA><END>
+ã‚„ã£ãŸï½žï¼<LINE>
+ã¤ã‚ŒãŸï½žï¼<$FA><END>
 
-ƒ„ƒbƒ^`I<LINE>
-‚¨‚¨‚«‚¢‚¼I<$FA><END>
+ãƒ¤ãƒƒã‚¿ï½žï¼<LINE>
+ãŠãŠãã„ãžï¼<$FA><END>
 
-ƒ„ƒbƒ^[I<LINE>
-‚¨‚¨‚à‚Ì‚¾II<$FA><END>
+ãƒ¤ãƒƒã‚¿ãƒ¼ï¼<LINE>
+ãŠãŠã‚‚ã®ã ï¼ï¼<$FA><END>
 
-‚ ‚Æ<DYNAMIC_NUMBER><$00>”b‚Í<LINE>
-‚Â‚ê‚»‚¤‚¾‚ÈB<END>
+ã‚ã¨<DYNAMIC_NUMBER><$00>å·´ã¯<LINE>
+ã¤ã‚Œãã†ã ãªã€‚<END>
 
-‚à‚¤‚»‚ë‚»‚ë<LINE>
-‚¶‚©‚ñ‚¾‚ÈB<END>
+ã‚‚ã†ãã‚ãã‚<LINE>
+ã˜ã‹ã‚“ã ãªã€‚<END>
 
-‚â‚Á‚½‚ºI<LINE>
-‚Â‚¢‚É‚Â‚ê‚½‚¼I<END>
+ã‚„ã£ãŸãœï¼<LINE>
+ã¤ã„ã«ã¤ã‚ŒãŸãžï¼<END>
 
-‚¯‚¢‚¯‚ñ‚¿‚ð<DYNAMIC_NUMBER><$00><LINE>
-‚©‚­‚Æ‚­‚µ‚½I<END>
+ã‘ã„ã‘ã‚“ã¡ã‚’<DYNAMIC_NUMBER><$00><LINE>
+ã‹ãã¨ãã—ãŸï¼<END>
 
-<HERO>‚Ì<LINE>
-ƒŒƒxƒ‹‚ª‚ ‚ª‚Á‚½I<END>
+<HERO>ã®<LINE>
+ãƒ¬ãƒ™ãƒ«ãŒã‚ãŒã£ãŸï¼<END>
 
-‚±‚ê‚¢‚¶‚å‚¤‚Í<LINE>
-‚à‚Ä‚È‚¢‚æ‚¤‚Å‚·B<END>
+ã“ã‚Œã„ã˜ã‚‡ã†ã¯<LINE>
+ã‚‚ã¦ãªã„ã‚ˆã†ã§ã™ã€‚<END>
 
-‚Ü‚¾‚Ü‚¾ ‚¶‚©‚ñ‚Í<LINE>
-‚½‚Á‚Õ‚è ‚ ‚é‚ÈB<END>
+ã¾ã ã¾ã  ã˜ã‹ã‚“ã¯<LINE>
+ãŸã£ã·ã‚Š ã‚ã‚‹ãªã€‚<END>
 
-‚¢‚Ü‚Í ‚Æ‚É‚©‚­<LINE>
-‚Â‚è‚Ü‚­‚ë‚¤I<END>
+ã„ã¾ã¯ ã¨ã«ã‹ã<LINE>
+ã¤ã‚Šã¾ãã‚ã†ï¼<END>
 
-‚à‚¤ ‚»‚ë‚»‚ë<LINE>
-‚¶‚©‚ñ‚©‚ÈH<END>
+ã‚‚ã† ãã‚ãã‚<LINE>
+ã˜ã‹ã‚“ã‹ãªï¼Ÿ<END>
 
-‚±‚ê‚Å‚³‚¢‚²‚¾B<END>
+ã“ã‚Œã§ã•ã„ã”ã ã€‚<END>
 
-ƒiƒ~‚Í <DYNAMIC_NUMBER><$00>‚ð<LINE>
-‚Â‚­‚ê‚é‚æ‚¤‚É‚È‚Á‚½I<END>
+ãƒŠãƒŸã¯ <DYNAMIC_NUMBER><$00>ã‚’<LINE>
+ã¤ãã‚Œã‚‹ã‚ˆã†ã«ãªã£ãŸï¼<END>
 
-E<PAUSE><$10>E<PAUSE><$10>E<PAUSE><$10>‚¾‚ê‚à‚¢‚È‚¢‚ËB<LINE>
-‚×‚Â‚Ì‚Æ‚±‚ë‚É ‚¢‚©‚È‚¢H<END>
+ãƒ»<PAUSE><$10>ãƒ»<PAUSE><$10>ãƒ»<PAUSE><$10>ã ã‚Œã‚‚ã„ãªã„ã­ã€‚<LINE>
+ã¹ã¤ã®ã¨ã“ã‚ã« ã„ã‹ãªã„ï¼Ÿ<END>
 
-‘å‰ïƒ‹[ƒ‹‚ð ‚¹‚Â‚ß‚¢‚µ‚Ü‚·B<LINE>
-‘å‰ï‚æ‚¤ƒ‰ƒCƒuƒEƒFƒ‹‚É‚¢‚é<NP>
+å¤§ä¼šãƒ«ãƒ¼ãƒ«ã‚’ ã›ã¤ã‚ã„ã—ã¾ã™ã€‚<LINE>
+å¤§ä¼šã‚ˆã†ãƒ©ã‚¤ãƒ–ã‚¦ã‚§ãƒ«ã«ã„ã‚‹<NP>
 
-5”b‚Ì ‚²‚¤‚¯‚¢‚¶‚ã‚¤‚è‚å‚¤‚Å<LINE>
-3‚¢‚Ü‚Å‚ð ‚¯‚Á‚Ä‚¢‚µ‚Ü‚·B<NP>
+5å·´ã® ã”ã†ã‘ã„ã˜ã‚…ã†ã‚Šã‚‡ã†ã§<LINE>
+3ã„ã¾ã§ã‚’ ã‘ã£ã¦ã„ã—ã¾ã™ã€‚<NP>
 
-‚½‚¢‚µ‚å‚¤‚¬‚å‚Í ‚à‚¿‚ë‚ñA<LINE>
-ƒuƒ‰ƒbƒNƒoƒX‚¾‚¯‚Å‚·B<NP>
+ãŸã„ã—ã‚‡ã†ãŽã‚‡ã¯ ã‚‚ã¡ã‚ã‚“ã€<LINE>
+ãƒ–ãƒ©ãƒƒã‚¯ãƒã‚¹ã ã‘ã§ã™ã€‚<NP>
 
-‚µ‚ã‚¤‚è‚å‚¤‚¶‚©‚ñ‚Í<LINE>
-8‚¶‚©‚ñ‚²‚Å‚·B<NP>
+ã—ã‚…ã†ã‚Šã‚‡ã†ã˜ã‹ã‚“ã¯<LINE>
+8ã˜ã‹ã‚“ã”ã§ã™ã€‚<NP>
 
-‚»‚ê‚Å‚Í<PAUSE><$05>E<PAUSE><$05>E<PAUSE><$05>E<PAUSE><$05><LINE>
-‚æ[‚¢‚ÁI <PAUSE><$20>ƒXƒ^[ƒgII<END>
+ãã‚Œã§ã¯<PAUSE><$05>ãƒ»<PAUSE><$05>ãƒ»<PAUSE><$05>ãƒ»<PAUSE><$05><LINE>
+ã‚ˆãƒ¼ã„ã£ï¼ <PAUSE><$20>ã‚¹ã‚¿ãƒ¼ãƒˆï¼ï¼<END>
 
-‚Ü‚à‚È‚­‘å‰ï‚Ì‚æ‚¤‚¢‚ª‚Å‚«‚Ü‚·B<LINE>
-‚º‚Ð ‚³‚ñ‚©‚µ‚Ä‚­‚¾‚³‚¢‚ËB<END>
+ã¾ã‚‚ãªãå¤§ä¼šã®ã‚ˆã†ã„ãŒã§ãã¾ã™ã€‚<LINE>
+ãœã² ã•ã‚“ã‹ã—ã¦ãã ã•ã„ã­ã€‚<END>
 
-‚¯‚¢‚è‚å‚¤‚µ‚Ü‚·‚©H<LINE>
-<SELECTION>     ‚Í‚¢  ‚¢‚¢‚¦<$FF>
+ã‘ã„ã‚Šã‚‡ã†ã—ã¾ã™ã‹ï¼Ÿ<LINE>
+<SELECTION>     ã¯ã„  ã„ã„ãˆ<$FF>
 
 -----
 
-‚¯‚ñ‚Æ‚¤‚ð ‚¢‚Ì‚è‚Ü‚·I<END>
+ã‘ã‚“ã¨ã†ã‚’ ã„ã®ã‚Šã¾ã™ï¼<END>
 
-ƒoƒX‚Â‚è‘å‰ï‚Å ‚µ‚å‚¤‚«‚ñ‚Æ<LINE>
-‚¦‚¢‚±‚¤‚ð ‚Ä‚É‚¢‚ê‚æ‚¤I<NP>
+ãƒã‚¹ã¤ã‚Šå¤§ä¼šã§ ã—ã‚‡ã†ãã‚“ã¨<LINE>
+ãˆã„ã“ã†ã‚’ ã¦ã«ã„ã‚Œã‚ˆã†ï¼<NP>
 
-‘å‰ï‚¿‚ã‚¤‚Í<LINE>
-‚»‚Æ‚É‚Å‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB<NP>
+å¤§ä¼šã¡ã‚…ã†ã¯<LINE>
+ãã¨ã«ã§ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚<NP>
 
-‚©‚¢‚à‚Ì‚Í ‚¢‚Ü‚Ì‚¤‚¿‚É<LINE>
-‚·‚Ü‚¹‚Ä‚¨‚¢‚Ä‚­‚¾‚³‚¢B<NP>
+ã‹ã„ã‚‚ã®ã¯ ã„ã¾ã®ã†ã¡ã«<LINE>
+ã™ã¾ã›ã¦ãŠã„ã¦ãã ã•ã„ã€‚<NP>
 
-‘å‰ï‚É ‚³‚ñ‚©‚µ‚Ü‚·‚©H<LINE>
-<SELECTION>     ‚Í‚¢  ‚¢‚¢‚¦<$FF>
+å¤§ä¼šã« ã•ã‚“ã‹ã—ã¾ã™ã‹ï¼Ÿ<LINE>
+<SELECTION>     ã¯ã„  ã„ã„ãˆ<$FF>
 
 -----
 
-‚¤[‚ñ ‚´‚ñ‚Ë‚ñ‚Å‚·B<LINE>
-‚±‚ñ‚Ç‚Í ‚³‚ñ‚©‚µ‚Ä‚­‚¾‚³‚¢B<END>
+ã†ãƒ¼ã‚“ ã–ã‚“ã­ã‚“ã§ã™ã€‚<LINE>
+ã“ã‚“ã©ã¯ ã•ã‚“ã‹ã—ã¦ãã ã•ã„ã€‚<END>
 
-‘å‰ï‚Ì‚¯‚Á‚©‚Í‚Á‚Ò‚å‚¤‚Å‚·B<NP>
+å¤§ä¼šã®ã‘ã£ã‹ã¯ã£ã´ã‚‡ã†ã§ã™ã€‚<NP>
 
-‚¾‚¢3‚¢<PAUSE><$20> ‚²‚¤‚¯‚¢‚¶‚ã‚¤‚è‚å‚¤<LINE>
-<DYNAMIC_NUMBER><$20>g‚Ì <DYNAMIC_NUMBER><$28>I<NP>
+ã ã„3ã„<PAUSE><$20> ã”ã†ã‘ã„ã˜ã‚…ã†ã‚Šã‚‡ã†<LINE>
+<DYNAMIC_NUMBER><$20>gã® <DYNAMIC_NUMBER><$28>ï¼<NP>
 
-‚¾‚¢2‚¢<PAUSE><$20> ‚²‚¤‚¯‚¢‚¶‚ã‚¤‚è‚å‚¤<LINE>
-<DYNAMIC_NUMBER><$10>g‚Ì <DYNAMIC_NUMBER><$18>I<NP>
+ã ã„2ã„<PAUSE><$20> ã”ã†ã‘ã„ã˜ã‚…ã†ã‚Šã‚‡ã†<LINE>
+<DYNAMIC_NUMBER><$10>gã® <DYNAMIC_NUMBER><$18>ï¼<NP>
 
-‚»‚µ‚Ä ‚Ý‚²‚Æ‚É ‚ä‚¤‚µ‚å‚¤‚Ì<LINE>
-‚¦‚¢‚©‚ñ‚ð ‚Ä‚É‚µ‚½‚Ì‚ÍEEE<NP>
+ãã—ã¦ ã¿ã”ã¨ã« ã‚†ã†ã—ã‚‡ã†ã®<LINE>
+ãˆã„ã‹ã‚“ã‚’ ã¦ã«ã—ãŸã®ã¯ãƒ»ãƒ»ãƒ»<NP>
 
-‚È‚ñ‚ÆI<PAUSE><$20>‚²‚¤‚¯‚¢‚¶‚ã‚¤‚è‚å‚¤<LINE>
-<DYNAMIC_NUMBER><$00>g‚Ì <DYNAMIC_NUMBER><$08>I<NP>
+ãªã‚“ã¨ï¼<PAUSE><$20>ã”ã†ã‘ã„ã˜ã‚…ã†ã‚Šã‚‡ã†<LINE>
+<DYNAMIC_NUMBER><$00>gã® <DYNAMIC_NUMBER><$08>ï¼<NP>
 
-‚µ‚å‚¤‚«‚ñ <DYNAMIC_NUMBER><$30>‚ª <LINE>
-‚ä‚¤‚µ‚å‚¤‚µ‚á‚É ‚¨‚­‚ç‚ê‚Ü‚·B<END>
+ã—ã‚‡ã†ãã‚“ <DYNAMIC_NUMBER><$30>ãŒ <LINE>
+ã‚†ã†ã—ã‚‡ã†ã—ã‚ƒã« ãŠãã‚‰ã‚Œã¾ã™ã€‚<END>
 
-‚¿‚Á‚«‚µ‚å‚§[I<LINE>
-‚Â‚¬‚±‚» ‚ä‚¤‚µ‚å‚¤‚¾II<END>
+ã¡ã£ãã—ã‚‡ã‰ãƒ¼ï¼<LINE>
+ã¤ãŽã“ã ã‚†ã†ã—ã‚‡ã†ã ï¼ï¼<END>
 
-<HERO>‚­‚ñEEE<LINE>
-‚ ‚«‚ç‚ß‚È‚¢‚Å ‚ª‚ñ‚Î‚ë‚¤‚æ<Hearts><END>
+<HERO>ãã‚“ãƒ»ãƒ»ãƒ»<LINE>
+ã‚ãã‚‰ã‚ãªã„ã§ ãŒã‚“ã°ã‚ã†ã‚ˆ<Hearts><END>
 
-‚¨‚Á‚ÆI ‚±‚±‚©‚ç‚Å‚é‚É‚Í<LINE>
-‘å‰ï‚ª ‚¨‚í‚Á‚Ä‚©‚ç‚¾‚ËB<END>
+ãŠã£ã¨ï¼ ã“ã“ã‹ã‚‰ã§ã‚‹ã«ã¯<LINE>
+å¤§ä¼šãŒ ãŠã‚ã£ã¦ã‹ã‚‰ã ã­ã€‚<END>
 
-EEEEEE<PAUSE><$20>EEEEEEEEEE<LINE>
-<PAUSE><$20>EEEEEEEEEEEEEEEB<END>
+ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»<PAUSE><$20>ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»<LINE>
+<PAUSE><$20>ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ã€‚<END>
 
-‚¨‚Á‚ÆI ‘å‰ï‚¿‚ã‚¤‚¾‚©‚ç<LINE>
-‚Ë‚½‚çƒ_ƒ‚¾‚ËB<END>
+ãŠã£ã¨ï¼ å¤§ä¼šã¡ã‚…ã†ã ã‹ã‚‰<LINE>
+ã­ãŸã‚‰ãƒ€ãƒ¡ã ã­ã€‚<END>
 
-‚¨‚Á‚ÆI ‚±‚±‚©‚ç‚Å‚é‚É‚Í<LINE>
-‚½‚¢‚¯‚Â‚ª ‚¨‚í‚Á‚Ä‚©‚ç‚¾‚ËB<END>
+ãŠã£ã¨ï¼ ã“ã“ã‹ã‚‰ã§ã‚‹ã«ã¯<LINE>
+ãŸã„ã‘ã¤ãŒ ãŠã‚ã£ã¦ã‹ã‚‰ã ã­ã€‚<END>
 
-‚¨‚Á‚ÆI ‚½‚¢‚¯‚Â‚¿‚ã‚¤‚¾‚©‚ç<LINE>
-‚Ë‚½‚çƒ_ƒ‚¾‚ËB<END>
+ãŠã£ã¨ï¼ ãŸã„ã‘ã¤ã¡ã‚…ã†ã ã‹ã‚‰<LINE>
+ã­ãŸã‚‰ãƒ€ãƒ¡ã ã­ã€‚<END>
 
-‚à‚¤ ‚»‚ë‚»‚ë<LINE>
-‚¶‚©‚ñ‚¾‚ÈB<END>
+ã‚‚ã† ãã‚ãã‚<LINE>
+ã˜ã‹ã‚“ã ãªã€‚<END>
 
-ƒIƒŒ‚Ì ‚Â‚Á‚½‚â‚Â‚Í<LINE>
-<DYNAMIC_NUMBER><$00>cm‚¾I<END>
+ã‚ªãƒ¬ã® ã¤ã£ãŸã‚„ã¤ã¯<LINE>
+<DYNAMIC_NUMBER><$00>cmã ï¼<END>
 
-ƒPƒ“ƒW‚ª<LINE>
-‚È‚©‚Ü‚É‚Í‚¢‚Á‚½I<END>
+ã‚±ãƒ³ã‚¸ãŒ<LINE>
+ãªã‹ã¾ã«ã¯ã„ã£ãŸï¼<END>
 
-<HERO>‚Í ƒAƒhƒoƒCƒX<LINE>
-ƒm[ƒg‚ð‚Ä‚É‚¢‚ê‚½I<END>
+<HERO>ã¯ ã‚¢ãƒ‰ãƒã‚¤ã‚¹<LINE>
+ãƒŽãƒ¼ãƒˆã‚’ã¦ã«ã„ã‚ŒãŸï¼<END>
 
-ƒPƒ“ƒW‚Í <HERO>‚Ì‚à‚Æ‚ð<LINE>
-‚³‚Á‚Ä‚¢‚Á‚½I<END>
+ã‚±ãƒ³ã‚¸ã¯ <HERO>ã®ã‚‚ã¨ã‚’<LINE>
+ã•ã£ã¦ã„ã£ãŸï¼<END>
 
-ƒcƒˆƒV‚ª<LINE>
-‚È‚©‚Ü‚É‚Í‚¢‚Á‚½I<END>
+ãƒ„ãƒ¨ã‚·ãŒ<LINE>
+ãªã‹ã¾ã«ã¯ã„ã£ãŸï¼<END>
 
-ƒƒKƒl‚ð<LINE>
-‚Æ‚è‚©‚¦‚µ‚½I<END>
+ãƒ¡ã‚¬ãƒã‚’<LINE>
+ã¨ã‚Šã‹ãˆã—ãŸï¼<END>
 
-<HERO>‚Í<LINE>
-ƒeƒ“ƒg‚ð‚Ä‚É‚¢‚ê‚½I<END>
+<HERO>ã¯<LINE>
+ãƒ†ãƒ³ãƒˆã‚’ã¦ã«ã„ã‚ŒãŸï¼<END>
 
-ƒcƒˆƒV‚Í <HERO>‚Ì‚à‚Æ‚ð<LINE>
-‚³‚Á‚Ä‚¢‚Á‚½I<END>
+ãƒ„ãƒ¨ã‚·ã¯ <HERO>ã®ã‚‚ã¨ã‚’<LINE>
+ã•ã£ã¦ã„ã£ãŸï¼<END>
 
-ƒ^ƒNƒg‚ª<LINE>
-‚È‚©‚Ü‚É‚Í‚¢‚Á‚½I<END>
+ã‚¿ã‚¯ãƒˆãŒ<LINE>
+ãªã‹ã¾ã«ã¯ã„ã£ãŸï¼<END>
 
-<HERO>‚Í ƒ}ƒEƒ“ƒeƒ“<LINE>
-ƒoƒCƒN‚ð‚Ä‚É‚¢‚ê‚½I<END>
+<HERO>ã¯ ãƒžã‚¦ãƒ³ãƒ†ãƒ³<LINE>
+ãƒã‚¤ã‚¯ã‚’ã¦ã«ã„ã‚ŒãŸï¼<END>
 
-<HERO>‚Í ƒGƒŒƒL<LINE>
-ƒ{[ƒg‚ð‚Ä‚É‚¢‚ê‚½I<END>
+<HERO>ã¯ ã‚¨ãƒ¬ã‚­<LINE>
+ãƒœãƒ¼ãƒˆã‚’ã¦ã«ã„ã‚ŒãŸï¼<END>
 
-<HERO>‚Í ‚¬‚å‚®‚ñ<LINE>
-‚½‚ñ‚¿‚«‚ð‚Ä‚É‚¢‚ê‚½I<END>
+<HERO>ã¯ ãŽã‚‡ãã‚“<LINE>
+ãŸã‚“ã¡ãã‚’ã¦ã«ã„ã‚ŒãŸï¼<END>
 
-<DYNAMIC_NUMBER><$00>‚ð<LINE>
-ƒ}ƒXƒ^[‚µ‚½I<END>
+<DYNAMIC_NUMBER><$00>ã‚’<LINE>
+ãƒžã‚¹ã‚¿ãƒ¼ã—ãŸï¼<END>
 
-<DYNAMIC_NUMBER><$00>‚ª<LINE>
-‚È‚©‚Ü‚É‚Í‚¢‚Á‚½I<END>
+<DYNAMIC_NUMBER><$00>ãŒ<LINE>
+ãªã‹ã¾ã«ã¯ã„ã£ãŸï¼<END>
 
-ƒŠƒgƒŠ[ƒu‚ð<LINE>
-‚¨‚Ú‚¦‚½I<END>
+ãƒªãƒˆãƒªãƒ¼ãƒ–ã‚’<LINE>
+ãŠã¼ãˆãŸï¼<END>
 
-<HERO>‚Í“”‚Ìƒ‹ƒA[‚ð<LINE>
-‚Ä‚É‚¢‚ê‚½I<END>
+<HERO>ã¯ç¯ã®ãƒ«ã‚¢ãƒ¼ã‚’<LINE>
+ã¦ã«ã„ã‚ŒãŸï¼<END>
 
-<HERO>‚Í <DYNAMIC_NUMBER><$00><LINE>
-‚ð ‚Ä‚É‚¢‚ê‚½I<END>
+<HERO>ã¯ <DYNAMIC_NUMBER><$00><LINE>
+ã‚’ ã¦ã«ã„ã‚ŒãŸï¼<END>
 
-<HERO>‚Í<LINE>
-ƒAƒ‹ƒoƒ€‚ð ‚Ä‚É‚¢‚ê‚½I<END>
+<HERO>ã¯<LINE>
+ã‚¢ãƒ«ãƒãƒ ã‚’ ã¦ã«ã„ã‚ŒãŸï¼<END>
 
-ƒiƒ~‚ð ‚³‚ª‚³‚È‚­‚Ä‚¢‚¢‚Ì‚©‚æI<LINE>
-‚Ù‚¤‚ç‚¢‚±‚É ‚¢‚é‚Í‚¸‚¾‚æ‚ÈH
+ãƒŠãƒŸã‚’ ã•ãŒã•ãªãã¦ã„ã„ã®ã‹ã‚ˆï¼<LINE>
+ã»ã†ã‚‰ã„ã“ã« ã„ã‚‹ã¯ãšã ã‚ˆãªï¼Ÿ
